@@ -6,7 +6,7 @@ Fizz Buzz, But cooler! Swedish drinking game
 <h3>Rules</h3>
 <p>The following players helps us in this example: <strong>Josef, Sebastian, Erik, Hertz, Carl, Henrik and Bert</strong>.</p>
 <p>The rules are simple:</p>
-<p>If the number is divisible by the choosen number, 7 in this case, you must say "Burr!" instead of seven.
+<p>If the number is divisible by the choosen number, 7 in this case, or if the number exists in the current number(eg 17), you must say "Burr!" instead of seven.
 When someone says "Burr!" the procedure turns.</p>
 <p>Decide a number that cant be spoken, in this case, we choose 7.</p>
 
