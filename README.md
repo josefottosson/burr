@@ -6,8 +6,16 @@ Fizz Buzz, But cooler! Swedish drinking game
 ![My image](http://jeho.se/u/jo222ev/2f8d3101.png)
 
 
+Josef: 1 js.js:45
+Sebastian: 2 js.js:45
+Palmer: 3 js.js:45
+Jacob: 4 js.js:45
+Ståhl: 5 js.js:45
+Hertz: 6 js.js:45
+Carl: Burr! 
+
 <h3>Rules</h3>
-<p>The following players helps us in this example: <strong>Josef, Sebastian, Erik, Hertz, Carl, Henrik and Bert</strong>.</p>
+<p>The following players helps us in this example: <strong>Josef, Sebastian, Palmer, Jacob, Ståhl, Hertz and Carl</strong>.</p>
 <p>The rules are simple:</p>
 <p>If the number is divisible by the choosen number, 7 in this case, or if the number exists in the current number(eg 17), you must say "Burr!" instead of seven.
 When someone says "Burr!" the procedure turns.</p>
@@ -18,21 +26,21 @@ When someone says "Burr!" the procedure turns.</p>
 <ul>
 <li>Josef: 1</li>
 <li>Sebastian: 2</li>
-<li>Erik: 3</li>
-<li>Hertz: 4</li>
-<li>Carl: 5</li>
-<li>Henrik: 6</li>
-<li>Bert: <strong>BURR!</strong> The number is the "burr digit"</li>
-<li>Henrik: 8</li>
-<li>Carl: 9</li>
-<li>Hertz: 10</li>
-<li>Erik: 11</li>
+<li>Palmer: 3</li>
+<li>Jacob: 4</li>
+<li>Ståhl: 5</li>
+<li>Hertz: 6</li>
+<li>Carl: <strong>BURR!</strong> The number is the "burr digit"</li>
+<li>Hertz: 8</li>
+<li>Ståhl: 9</li>
+<li>Jacob: 10</li>
+<li>Palmer: 11</li>
 <li>Sebastian: 12</li>
 <li>Josef: 13</li>
-<li>Bert: <strong>BURR!</strong> The number is divisible by the "burr digit"</li>
+<li>Carl: <strong>BURR!</strong> The number is divisible by the "burr digit"</li>
 <li>Josef: 15</li>
 <li>Sebastian: 16</li>
-<li>Erik: <strong>BURR!</strong> The number contains the "burr digit"</li>
+<li>Palmer: <strong>BURR!</strong> The number contains the "burr digit"</li>
 </ul>
 
 <h4>Penaltys</h4>
