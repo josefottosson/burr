@@ -33,4 +33,4 @@ When someone says "Burr!" the procedure turns.</p>
 </ul>
 
 <h4>Penaltys</h4>
-<p>If someone says Burr wrong or doesn't says Burr when they should the rules are simple: <strong>DRINK</strong></p>
+<p>If someone says Burr wrong or doesn't says Burr when they should be,  the rules are simple: <strong>DRINK</strong></p>
