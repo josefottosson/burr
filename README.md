@@ -7,7 +7,7 @@ Burr
 <p>The following players helps us in this example: <strong>Josef, Sebastian, Palmer, Jacob, Ståhl, Hertz and Carl</strong>.</p>
 <p>The rules are simple:</p>
 <p>If the number is divisible by the choosen number, 7 in this case, or if the number exists in the current number(eg 17), you must say "Burr!" instead of seven.
-When someone says "Burr!" the procedure turns.</p>
+When someone says "Burr!" the direction of play change.</p>
 <p>Decide a number that cant be spoken, in this case, we choose 7.</p>
 
 <p>Start counting</p>
