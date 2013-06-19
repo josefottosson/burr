@@ -3,6 +3,9 @@ Burr
 
 Fizz Buzz, But cooler! Swedish drinking game
 
+![My image](http://jeho.se/u/jo222ev/2f8d3101.png)
+
+
 <h3>Rules</h3>
 <p>The following players helps us in this example: <strong>Josef, Sebastian, Erik, Hertz, Carl, Henrik and Bert</strong>.</p>
 <p>The rules are simple:</p>
