@@ -1,18 +1,7 @@
 Burr
 ====
 
-Fizz Buzz, But cooler! Swedish drinking game
-
-![My image](http://jeho.se/u/jo222ev/2f8d3101.png)
-
-
-Josef: 1 js.js:45
-Sebastian: 2 js.js:45
-Palmer: 3 js.js:45
-Jacob: 4 js.js:45
-Ståhl: 5 js.js:45
-Hertz: 6 js.js:45
-Carl: Burr! 
+<h2>Fizz Buzz, But cooler! Swedish drinking game</h2>
 
 <h3>Rules</h3>
 <p>The following players helps us in this example: <strong>Josef, Sebastian, Palmer, Jacob, Ståhl, Hertz and Carl</strong>.</p>
@@ -45,3 +34,6 @@ When someone says "Burr!" the procedure turns.</p>
 
 <h4>Penaltys</h4>
 <p>If someone says Burr wrong or doesn't says Burr when they should be,  the rules are simple: <strong>DRINK</strong></p>
+
+<h4>Example output:</h4>
+![My image](http://jeho.se/u/jo222ev/2f8d3101.png)
