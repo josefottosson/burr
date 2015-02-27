@@ -31,7 +31,7 @@ When someone says "Burr!" the direction of play change.</p>
 <li>Palmer: <strong>BURR!</strong> The number contains the "burr digit"</li>
 </ul>
 
-<h4>Penaltys</h4>
+<h4>Penalties</h4>
 <p>If someone says Burr wrong or doesn't says Burr when they should be,  the rules are simple: <strong>DRINK</strong></p>
 
 <h4>Example output:</h4>
