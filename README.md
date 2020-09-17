@@ -35,4 +35,3 @@ When someone says "Burr!" the direction of play change.</p>
 <p>If someone says Burr wrong or doesn't says Burr when they should be,  the rules are simple: <strong>DRINK</strong></p>
 
 <h4>Example output:</h4>
-![My image](http://jeho.se/u/jo222ev/2f8d3101.png)
